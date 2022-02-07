@@ -1,0 +1,2 @@
+package gio_redis
+
